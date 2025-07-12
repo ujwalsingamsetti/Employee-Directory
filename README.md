@@ -39,5 +39,5 @@ employee-directory/
 - **Pagination**: Use the page buttons (e.g., 1 2 ... 5) and «« « » »» to navigate.
 
 ## Screenshots
-![ main intreface](/images/screenshot1.png)
+![ main intreface](https://github.com/ujwalsingamsetti/Employee-Directory/blob/659e64ddf9d1182e156d1d8e650fd7291c552ead/screeenshot1.png)
 ![ add employee](/images/screenshot2.png)
