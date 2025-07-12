@@ -38,6 +38,15 @@ employee-directory/
 - **Filter**: Click "Filters" to apply filters by name, department, or role.
 - **Pagination**: Use the page buttons (e.g., 1 2 ... 5) and «« « » »» to navigate.
 
+
+## Future Improvements
+- **Add a logo to the header.
+- **Enhance the design with colors or animations.
+- **Add data export (e.g., to CSV).
+
 ## Screenshots
+
 ![ main intreface](https://github.com/ujwalsingamsetti/Employee-Directory/blob/659e64ddf9d1182e156d1d8e650fd7291c552ead/screeenshot1.png)
+
+
 ![ add employee](https://github.com/ujwalsingamsetti/Employee-Directory/blob/bf406ee16bf53be0ae21dd2f888f5a5441c5252a/screenshot2.png)
