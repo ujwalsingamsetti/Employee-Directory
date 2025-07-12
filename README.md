@@ -16,3 +16,12 @@ Welcome to the Employee Directory App! This is a simple web application to manag
 1. **Download the Code**:
    - Clone this repository or download the `employee-directory` folder.
 2. **Folder Structure**:
+```
+employee-directory/
+├── css/
+│   └── style.css
+├── js/
+│   └── app.js
+└── index.html
+
+```
