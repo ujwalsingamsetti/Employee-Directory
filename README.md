@@ -39,19 +39,5 @@ employee-directory/
 - **Pagination**: Use the page buttons (e.g., 1 2 ... 5) and «« « » »» to navigate.
 
 ## Screenshots
-Add screenshots to show how the app looks! Here’s how to include them:
-1. Take screenshots of the app:
-- Open `index.html` in your browser.
-- Capture the initial view (with the header and controls).
-- Capture the pagination view (e.g., with page 2 selected).
-- Use a tool like Snipping Tool (Windows), Shift+Command+4 (Mac), or your phone to take pictures.
-2. Save the screenshots in the `employee-directory` folder (e.g., `screenshot1.png`, `screenshot2.png`).
-3. Add them to this file like this:
-- Replace the placeholder paths below with your file names.
-- Example:
-  ```markdown
-  <image-card alt="Initial View" src="./screenshot1.png" ></image-card>
-  <image-card alt="Pagination View" src="./screenshot2.png" ></image-card>
-  <img src="./screenshot1.png" alt="Initial View">
-  <img src="./screenshot2.png" alt="Pagination View">
-  ```
+![ main intreface](/images/screenshot1.png)
+![ add employee](/images/screenshot2.png)
