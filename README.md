@@ -40,4 +40,4 @@ employee-directory/
 
 ## Screenshots
 ![ main intreface](https://github.com/ujwalsingamsetti/Employee-Directory/blob/659e64ddf9d1182e156d1d8e650fd7291c552ead/screeenshot1.png)
-![ add employee](/images/screenshot2.png)
+![ add employee](https://github.com/ujwalsingamsetti/Employee-Directory/blob/bf406ee16bf53be0ae21dd2f888f5a5441c5252a/screenshot2.png)
