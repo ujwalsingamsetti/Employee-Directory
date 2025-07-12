@@ -39,5 +39,7 @@ employee-directory/
 - **Pagination**: Use the page buttons (e.g., 1 2 ... 5) and «« « » »» to navigate.
 
 ## Screenshots
+```markdown
 ![ main intreface](/images/screenshot1.png)
 ![ add employee](/images/screenshot2.png)
+```
