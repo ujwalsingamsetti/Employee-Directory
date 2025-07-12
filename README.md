@@ -25,3 +25,33 @@ employee-directory/
 └── index.html
 
 ```
+3. **Open the App**:
+- Open `index.html` in any web browser (like Chrome or Firefox) by double-clicking it or using `live server` if you have it installed.
+4. **No Extra Tools Needed**:
+- The app runs locally with just HTML, CSS, and JavaScript—no server required!
+
+## How to Use
+- **Search**: Type in the search bar to find employees.
+- **Sort**: Use the dropdown to sort by first name or department.
+- **Add Employee**: Click "+ Add Employee" to open the form and fill in details.
+- **Edit/Delete**: Click ✎ (edit) or 🗑 (delete) on a card to modify or remove an employee.
+- **Filter**: Click "Filters" to apply filters by name, department, or role.
+- **Pagination**: Use the page buttons (e.g., 1 2 ... 5) and «« « » »» to navigate.
+
+## Screenshots
+Add screenshots to show how the app looks! Here’s how to include them:
+1. Take screenshots of the app:
+- Open `index.html` in your browser.
+- Capture the initial view (with the header and controls).
+- Capture the pagination view (e.g., with page 2 selected).
+- Use a tool like Snipping Tool (Windows), Shift+Command+4 (Mac), or your phone to take pictures.
+2. Save the screenshots in the `employee-directory` folder (e.g., `screenshot1.png`, `screenshot2.png`).
+3. Add them to this file like this:
+- Replace the placeholder paths below with your file names.
+- Example:
+  ```markdown
+  <image-card alt="Initial View" src="./screenshot1.png" ></image-card>
+  <image-card alt="Pagination View" src="./screenshot2.png" ></image-card>
+  <img src="./screenshot1.png" alt="Initial View">
+  <img src="./screenshot2.png" alt="Pagination View">
+  ```
